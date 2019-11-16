@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: <u>research</u>
 ---
 
 <div class="media">
