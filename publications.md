@@ -18,7 +18,7 @@ title: research
           <strong>Learning Transferable Adversarial Examples via Ghost Networks</strong><br />
           Yingwei Li, Song Bai, Yuyin Zhou, <b>Cihang Xie</b>, Zhishuai Zhang, Alan Yuille<br />
           Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/ghost-network">[CODE]</a><br />
+          <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
