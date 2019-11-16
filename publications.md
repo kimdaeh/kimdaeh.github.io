@@ -1,22 +1,14 @@
 ---
 layout: page
-title: Publications
+title: research
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZPcAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
-<br />
-
-<h3>
-    <a name='2019'></a> 2019
-</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
+          <strong>Stigma Leads to Avoidance of Mental Health Information: Behavioral Economics Approach <em>(Job Market Paper)</em>
 </strong><br />
-          Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan Yuille<br />
-          Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/Regional-Homogeneity">[CODE]</a><br />
+          <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a><br />
        </p>
     </div>
 </div>
@@ -26,7 +18,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZP
           <strong>Learning Transferable Adversarial Examples via Ghost Networks</strong><br />
           Yingwei Li, Song Bai, Yuyin Zhou, <b>Cihang Xie</b>, Zhishuai Zhang, Alan Yuille<br />
           Tech report, arXiv<br />
-          <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/ghost-network">[CODE]</a><br />
+          <a href="https://arxiv.org/pdf/1812.03413.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
