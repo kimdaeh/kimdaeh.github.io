@@ -34,3 +34,12 @@ Abstract:</p> Based on the ‘optimal expectation model’ by Brunnermeier and P
 Abstract:</p> In this study, two hypotheses regarding performances of the manufacturing firms’ in the US are tested using COMPUSTAT panel data. The first hypothesis is the existence of causality from firms’ supply chain or stock management performance to their own sales growth rate. The second hypothesis is the existence of causality from downstream firms’ supply chain or stock management performance to the upstream firms’ sales growth rate, with the direction of effect to be determined by econometric analysis. Two hypotheses are tested using fixed effect model and fixed effect IV model. The results indicate the first hypothesis is valid. As for the second hypothesis, the estimated effect has negative sign which implies downstream firms’ efficiency in supply chain or stock management negatively affects the upstream firms’ growth. A possible interpretation regarding this negative sign is that downstream firms’ frugality in terms of raw material purchase might negatively affect upstream firms’ sales volume. </p></div>
     
 </div>
+<br/><br/><br/>
+<strong><em>Work in Progress</em></strong><br/><br/>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Effect of Denial of Depression on The Spouse’s Mental Health Among Korean Elderly</strong><br />
+       </p>
+       <br/><br/><br/>
+        
