@@ -23,6 +23,8 @@ Abstract:</p> This study experimentally examines how individual level mental hea
 Abstract:</p> Based on the ‘optimal expectation model’ by Brunnermeier and Parker (2005), I build a model of optimal mental health belief formation. The model assumes individuals optimally choose their subjective beliefs about their own mental health state rather than taking it as exogenously given. The optimal belief is determined by taking into consideration both the psychological felicity from under-evaluating one’s own mental health risk and the potential costs from holding such optimistic view. The implication is that individuals develop positively biased subjective belief about their mental health state and tend to avoid knowing the true state in order to maintain the biased belief. Also, in my model, mental health stigma plays a role in a way that leads both the under-evaluation of mental health risk and diagnosis avoidance to be more likely. </p></div>
     
 </div>
+<br/><br/><br/>
+
 
 <div class="media">
     <div class="media-body">
