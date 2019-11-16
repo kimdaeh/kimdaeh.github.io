@@ -8,7 +8,7 @@ title: research
        <p class="media-heading">
           <strong>Stigma Leads to Avoidance of Mental Health Information: Behavioral Economics Approach <em>(Job Market Paper)</em>
 </strong><br />
-          <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/Regional-Homogeneity">[CODE]</a><br />
+          <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a><br />
        </p>
     </div>
 </div>
