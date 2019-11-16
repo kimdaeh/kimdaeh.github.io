@@ -6,7 +6,7 @@ title: research
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
+          <strong>Stigma Leads to Avoidance of Mental Health Information: Behavioral Economics Approach (Job Market Paper)
 </strong><br />
           Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan Yuille<br />
           Tech report, arXiv<br />
